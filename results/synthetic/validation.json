@@ -1,0 +1,62 @@
+{
+  "data_status": "SYNTHETIC VALIDATION ONLY \u2014 no PFAS/COF scientific results",
+  "seed": 20250901,
+  "diffusion": {
+    "D_nm2_ps": 0.0019796348317579343,
+    "D_m2_s": 1.979634831757934e-09,
+    "intercept_nm2": 0.0038683297083688594,
+    "r_squared": 0.9999793259138818,
+    "fit_min_ps": 10,
+    "fit_max_ps": 80,
+    "warning": "Correlated lag points: use independent replica estimates for uncertainty."
+  },
+  "expected_D_nm2_ps": 0.002,
+  "harmonic_pmf_rmse_kJ_mol": 0.09311120426485502,
+  "wham": {
+    "iterations": 126,
+    "adjacent_overlap": [
+      0.7496666666666667,
+      0.7521666666666667,
+      0.7303333333333333,
+      0.7451666666666666,
+      0.7363333333333333,
+      0.7446666666666666,
+      0.7478333333333333,
+      0.75,
+      0.7436666666666667,
+      0.7443333333333333,
+      0.7505,
+      0.7374999999999999,
+      0.7423333333333333,
+      0.7533333333333334,
+      0.742
+    ],
+    "minimum_overlap": 0.7303333333333333,
+    "unoccupied_bins": 8
+  },
+  "residence_example": [
+    {
+      "particle": 0,
+      "duration_ps": 2.0,
+      "left_censored": true,
+      "right_censored": false
+    },
+    {
+      "particle": 0,
+      "duration_ps": 1.0,
+      "left_censored": false,
+      "right_censored": true
+    },
+    {
+      "particle": 1,
+      "duration_ps": 2.0,
+      "left_censored": false,
+      "right_censored": false
+    }
+  ],
+  "water_example": {
+    "flux_m_s": 0.1196,
+    "permeance_m_Pa_s": 1.196e-08,
+    "permeance_L_m2_h_bar": 4305.6
+  }
+}
