@@ -1,0 +1,103 @@
+[
+  {
+    "species": "PFBA",
+    "cid": "9777",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9777/record/JSON?record_type=3d",
+    "source_sha256": "1dee424defcfa52bede087b36f739d6299eb7ed7b80d71328a32cf7005f65d16",
+    "atoms": 14,
+    "formula_counts": {
+      "F": 7,
+      "O": 2,
+      "C": 4,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFHxA",
+    "cid": "67542",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/67542/record/JSON?record_type=3d",
+    "source_sha256": "0a2347a4b5456eb3a43111851f141d785dba11271b836ae026572dcaadfe556a",
+    "atoms": 20,
+    "formula_counts": {
+      "F": 11,
+      "O": 2,
+      "C": 6,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFOA",
+    "cid": "9554",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9554/record/JSON?record_type=3d",
+    "source_sha256": "e1e4fd14209ffd827657172cdf6204a730b15ca81b530277439faabd01ea0154",
+    "atoms": 26,
+    "formula_counts": {
+      "F": 15,
+      "O": 2,
+      "C": 8,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFNA",
+    "cid": "67821",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/67821/record/JSON?record_type=3d",
+    "source_sha256": "0b014b88ab91144ebb3e4d83cfeb0cb74fad29246dc80fba0023f6fc176d33ec",
+    "atoms": 29,
+    "formula_counts": {
+      "F": 17,
+      "O": 2,
+      "C": 9,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFBS",
+    "cid": "67815",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/67815/record/JSON?record_type=3d",
+    "source_sha256": "ff07d250bd23d5e31897157b41c2898b4f5cdef85d918a11a81b50de30d6debf",
+    "atoms": 18,
+    "formula_counts": {
+      "S": 1,
+      "F": 9,
+      "O": 3,
+      "C": 4,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFHxS",
+    "cid": "67734",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/67734/record/JSON?record_type=3d",
+    "source_sha256": "818be071e20433d9499019913a6cb5d8a282de573621fceb21810b2b6838e91a",
+    "atoms": 24,
+    "formula_counts": {
+      "S": 1,
+      "F": 13,
+      "O": 3,
+      "C": 6,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  },
+  {
+    "species": "PFOS",
+    "cid": "74483",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/74483/record/JSON?record_type=3d",
+    "source_sha256": "0c8eb9065664841dce4bf8763a297d90294bd05d0d903126a42d5fd1158e26af",
+    "atoms": 30,
+    "formula_counts": {
+      "S": 1,
+      "F": 17,
+      "O": 3,
+      "C": 8,
+      "H": 1
+    },
+    "status": "Neutral parent acid, computed 3D conformer; no dynamics."
+  }
+]

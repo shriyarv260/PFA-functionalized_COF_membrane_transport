@@ -1,0 +1,38 @@
+HEADER    PFBS NEUTRAL PARENT ACID - PUBCHEM CID 67815
+REMARK   1 STATIC COMPUTED CONFORMER; NOT A SIMULATION.
+HETATM    1 S1   PFA A   1       1.968  -0.744  -0.402  1.00  0.00           S  
+HETATM    2 F2   PFA A   1      -0.653   1.970   0.831  1.00  0.00           F  
+HETATM    3 F3   PFA A   1       0.403   1.891  -1.067  1.00  0.00           F  
+HETATM    4 F4   PFA A   1       1.973   1.392   1.057  1.00  0.00           F  
+HETATM    5 F5   PFA A   1       0.643  -0.183   1.732  1.00  0.00           F  
+HETATM    6 F6   PFA A   1      -2.100   1.017  -1.281  1.00  0.00           F  
+HETATM    7 F7   PFA A   1      -0.629  -0.548  -1.601  1.00  0.00           F  
+HETATM    8 F8   PFA A   1      -2.508   0.042   1.312  1.00  0.00           F  
+HETATM    9 F9   PFA A   1      -2.857  -1.409  -0.280  1.00  0.00           F  
+HETATM   10 F10  PFA A   1      -1.040  -1.519   0.909  1.00  0.00           F  
+HETATM   11 O11  PFA A   1       3.223  -0.992   0.610  1.00  0.00           O  
+HETATM   12 O12  PFA A   1       2.467  -0.084  -1.589  1.00  0.00           O  
+HETATM   13 O13  PFA A   1       1.187  -1.962  -0.472  1.00  0.00           O  
+HETATM   14 C14  PFA A   1      -0.084   1.108  -0.060  1.00  0.00           C  
+HETATM   15 C15  PFA A   1       1.107   0.445   0.613  1.00  0.00           C  
+HETATM   16 C16  PFA A   1      -1.191   0.241  -0.639  1.00  0.00           C  
+HETATM   17 C17  PFA A   1      -1.912  -0.665   0.328  1.00  0.00           C  
+HETATM   18 H18  PFA A   1       3.008  -1.477   1.441  1.00  0.00           H  
+CONECT    1   11
+CONECT    1   12
+CONECT    1   13
+CONECT    1   15
+CONECT    2   14
+CONECT    3   14
+CONECT    4   15
+CONECT    5   15
+CONECT    6   16
+CONECT    7   16
+CONECT    8   17
+CONECT    9   17
+CONECT   10   17
+CONECT   11   18
+CONECT   14   15
+CONECT   14   16
+CONECT   16   17
+END

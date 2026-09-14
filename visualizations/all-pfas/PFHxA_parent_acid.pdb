@@ -1,0 +1,42 @@
+HEADER    PFHxA NEUTRAL PARENT ACID - PUBCHEM CID 67542
+REMARK   1 STATIC COMPUTED CONFORMER; NOT A SIMULATION.
+HETATM    1 F1   PFA A   1       0.940  -0.164  -2.113  1.00  0.00           F  
+HETATM    2 F2   PFA A   1      -0.393  -1.597  -1.170  1.00  0.00           F  
+HETATM    3 F3   PFA A   1      -0.020   1.856  -0.613  1.00  0.00           F  
+HETATM    4 F4   PFA A   1      -1.491   0.779  -1.787  1.00  0.00           F  
+HETATM    5 F5   PFA A   1       2.106  -1.795  -0.355  1.00  0.00           F  
+HETATM    6 F6   PFA A   1       0.773  -1.189   1.248  1.00  0.00           F  
+HETATM    7 F7   PFA A   1      -0.834   0.602   1.667  1.00  0.00           F  
+HETATM    8 F8   PFA A   1      -2.362   1.697   0.589  1.00  0.00           F  
+HETATM    9 F9   PFA A   1       1.651   1.447   0.927  1.00  0.00           F  
+HETATM   10 F10  PFA A   1       3.227   0.001   1.366  1.00  0.00           F  
+HETATM   11 F11  PFA A   1       2.986   0.765  -0.656  1.00  0.00           F  
+HETATM   12 O12  PFA A   1      -3.654  -0.434  -0.097  1.00  0.00           O  
+HETATM   13 O13  PFA A   1      -2.146  -1.736   0.999  1.00  0.00           O  
+HETATM   14 C14  PFA A   1       0.301  -0.447  -0.940  1.00  0.00           C  
+HETATM   15 C15  PFA A   1      -0.695   0.676  -0.683  1.00  0.00           C  
+HETATM   16 C16  PFA A   1       1.361  -0.749   0.108  1.00  0.00           C  
+HETATM   17 C17  PFA A   1      -1.593   0.571   0.540  1.00  0.00           C  
+HETATM   18 C18  PFA A   1       2.311   0.372   0.448  1.00  0.00           C  
+HETATM   19 C19  PFA A   1      -2.468  -0.656   0.522  1.00  0.00           C  
+HETATM   20 H20  PFA A   1      -4.215  -1.239  -0.112  1.00  0.00           H  
+CONECT    1   14
+CONECT    2   14
+CONECT    3   15
+CONECT    4   15
+CONECT    5   16
+CONECT    6   16
+CONECT    7   17
+CONECT    8   17
+CONECT    9   18
+CONECT   10   18
+CONECT   11   18
+CONECT   12   19
+CONECT   12   20
+CONECT   13   19
+CONECT   14   15
+CONECT   14   16
+CONECT   15   17
+CONECT   16   18
+CONECT   17   19
+END
