@@ -1,0 +1,20 @@
+{
+  "pfas_records": 7,
+  "cof_records": 874,
+  "cof_columns": [
+    "CURATED-COFs ID",
+    "Source",
+    "Name",
+    "Elements",
+    "Modifications"
+  ],
+  "cof_nonempty_values": {
+    "CURATED-COFs ID": 874,
+    "Source": 874,
+    "Name": 874,
+    "Elements": 874,
+    "Modifications": 874
+  },
+  "transport_observations": 0,
+  "scope": "Downloaded registry metadata only; no historical project outputs supplied."
+}
