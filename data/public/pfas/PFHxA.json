@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 67542,
+        "MolecularFormula": "C6HF11O2",
+        "MolecularWeight": "314.05",
+        "ConnectivitySMILES": "C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O",
+        "IUPACName": "2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}

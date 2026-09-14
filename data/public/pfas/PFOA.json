@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 9554,
+        "MolecularFormula": "C8HF15O2",
+        "MolecularWeight": "414.07",
+        "ConnectivitySMILES": "C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O",
+        "IUPACName": "2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}

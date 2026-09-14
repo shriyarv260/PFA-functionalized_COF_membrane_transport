@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 9777,
+        "MolecularFormula": "C4HF7O2",
+        "MolecularWeight": "214.04",
+        "ConnectivitySMILES": "C(=O)(C(C(C(F)(F)F)(F)F)(F)F)O",
+        "IUPACName": "2,2,3,3,4,4,4-heptafluorobutanoic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 67815,
+        "MolecularFormula": "C4HF9O3S",
+        "MolecularWeight": "300.10",
+        "ConnectivitySMILES": "C(C(C(F)(F)S(=O)(=O)O)(F)F)(C(F)(F)F)(F)F",
+        "IUPACName": "1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}

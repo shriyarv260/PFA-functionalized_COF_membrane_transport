@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 67821,
+        "MolecularFormula": "C9HF17O2",
+        "MolecularWeight": "464.08",
+        "ConnectivitySMILES": "C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O",
+        "IUPACName": "2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononanoic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}

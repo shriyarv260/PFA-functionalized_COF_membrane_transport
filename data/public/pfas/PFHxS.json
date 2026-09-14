@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 67734,
+        "MolecularFormula": "C6HF13O3S",
+        "MolecularWeight": "400.12",
+        "ConnectivitySMILES": "C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F",
+        "IUPACName": "1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid",
+        "Charge": 0
+      }
+    ]
+  }
+}
