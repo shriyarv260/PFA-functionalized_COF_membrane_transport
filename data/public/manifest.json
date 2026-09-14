@@ -1,0 +1,72 @@
+[
+  {
+    "path": "cofs/cof-frameworks.csv",
+    "url": "https://raw.githubusercontent.com/danieleongari/CURATED-COFs/fddfde12e43787755e99be9238058fba475ca048/cof-frameworks.csv",
+    "retrieved_utc": "2026-09-14T05:44:11.690047+00:00",
+    "sha256": "94c50702a15ab6dd769166aa835212323d96ddf134c30848adfe3f27f7a022b2",
+    "bytes": 56004
+  },
+  {
+    "path": "cofs/cof-papers.csv",
+    "url": "https://raw.githubusercontent.com/danieleongari/CURATED-COFs/fddfde12e43787755e99be9238058fba475ca048/cof-papers.csv",
+    "retrieved_utc": "2026-09-14T05:44:12.056408+00:00",
+    "sha256": "a88e70f6863f94b18d344ddf7027d60f27054c8fb8e4db8aac8986c7a2b63a6a",
+    "bytes": 77177
+  },
+  {
+    "path": "cofs/LICENSE",
+    "url": "https://raw.githubusercontent.com/danieleongari/CURATED-COFs/fddfde12e43787755e99be9238058fba475ca048/LICENSE",
+    "retrieved_utc": "2026-09-14T05:44:12.248448+00:00",
+    "sha256": "4d92cd8247a2e7a6148f95474bc0f1ab7ab1d363233882d40d7ee31f22aac187",
+    "bytes": 1071
+  },
+  {
+    "path": "pfas/PFBA.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorobutanoic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:12.988219+00:00",
+    "sha256": "752a8eef3b7881deda98e8791eec4f7d0c83f4d9ff850c821d036d18ba53c290",
+    "bytes": 315
+  },
+  {
+    "path": "pfas/PFHxA.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorohexanoic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:13.715340+00:00",
+    "sha256": "7c9cb0a601344323e7ada26572a35121f9cb05040f8f4f639dc7caa9a006e7c7",
+    "bytes": 340
+  },
+  {
+    "path": "pfas/PFOA.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorooctanoic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:14.383561+00:00",
+    "sha256": "4946eea7e34ed72b3f04d2281a014368c41823e2d50056aec8b603d94e32cf3d",
+    "bytes": 364
+  },
+  {
+    "path": "pfas/PFNA.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorononanoic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:15.216528+00:00",
+    "sha256": "c679e16fe2fbe6d8602f1422657419f47dbd610e775530ac961068a525dbfe4d",
+    "bytes": 376
+  },
+  {
+    "path": "pfas/PFBS.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorobutanesulfonic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:17.324491+00:00",
+    "sha256": "c356d0aa5ccd8dd674417410f853da4062b1e29dedccf9e55017a0269c958e12",
+    "bytes": 340
+  },
+  {
+    "path": "pfas/PFHxS.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorohexanesulfonic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:18.065801+00:00",
+    "sha256": "9a8d79c23ed12883ba2c7a977153084124e22fff27a45121fd4f6e2fce79c73b",
+    "bytes": 366
+  },
+  {
+    "path": "pfas/PFOS.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perfluorooctanesulfonic%20acid/property/MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,Charge/JSON",
+    "retrieved_utc": "2026-09-14T05:44:19.135750+00:00",
+    "sha256": "713cb9aae1a8127116f0ee113d76dbb600856d404aa1024e608cc72cd0357e41",
+    "bytes": 390
+  }
+]

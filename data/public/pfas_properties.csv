@@ -1,0 +1,8 @@
+species,CID,MolecularFormula,MolecularWeight,ConnectivitySMILES,IUPACName,Charge,simulation_charge,state_note
+PFBA,9777,C4HF7O2,214.04,C(=O)(C(C(C(F)(F)F)(F)F)(F)F)O,"2,2,3,3,4,4,4-heptafluorobutanoic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFHxA,67542,C6HF11O2,314.05,C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O,"2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFOA,9554,C8HF15O2,414.07,C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFNA,67821,C9HF17O2,464.08,C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononanoic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFBS,67815,C4HF9O3S,300.10,C(C(C(F)(F)S(=O)(=O)O)(F)F)(C(F)(F)F)(F)F,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFHxS,67734,C6HF13O3S,400.12,C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
+PFOS,74483,C8HF17O3S,500.13,C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid",0,-1,Source is parent acid; simulation anion requires explicit parameterization.
