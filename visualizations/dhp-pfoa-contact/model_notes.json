@@ -1,0 +1,24 @@
+{
+  "status": "Illustrative contact; not full COF, docking result, or MD",
+  "source_paper": "10.26434/chemrxiv.15000313/v2, Scheme on PDF page 5",
+  "fragment_description": "Dimethyl 2,6-dimethyl-1,4-diphenyl-1,4-dihydropyridine-3,5-dicarboxylate; remote COF continuation capped by H",
+  "fragment_smiles": "COC(=O)C1=C(C)N(c2ccccc2)C(C)=C(C(=O)OC)C1c1ccccc1",
+  "fragment_formula": "C23H23NO4",
+  "fragment_MMFF_converged": true,
+  "PFOA_form": "neutral parent acid, PubChem CID 9554 computed conformer",
+  "pfoa_source_sha256": "e1e4fd14209ffd827657172cdf6204a730b15ca81b530277439faabd01ea0154",
+  "H_to_acceptor_O_A": 1.9,
+  "donor_O_to_acceptor_O_A": 2.880920965215853,
+  "minimum_interfragment_heavy_atom_distance_A": 2.880920965215853,
+  "atom_count": 77,
+  "acceptor_atom_1based": 4,
+  "donor_H_atom_1based": 77,
+  "donor_O_atom_1based": 67,
+  "limitations": [
+    "No full crystal/periodic framework",
+    "No water, force-field charges, or protonation equilibrium",
+    "Only isolated fragment was MMFF minimized",
+    "Pair pose manually constructed with rotation scan for steric separation",
+    "No binding energy or equilibrium/transport claim"
+  ]
+}
