@@ -61,3 +61,11 @@ See [protocol](docs/protocol.md), [data contract](docs/data_contract.md), and [s
 Provide a relaxed periodic membrane slab, validated bonded topology and charges, explicitly parameterized PFAS anions, compatible water/ion parameters, equilibrated starting structures and compute resources. GROMACS is not installed in the build environment. The supplied settings are preparation templates, not a validated force field or a completed simulation. Run and audit the protocol before reporting physical findings.
 
 Code is MIT licensed; source data retains upstream attribution and terms. Large trajectories are excluded from Git and should be archived with hashes and persistent dataset identifiers.
+
+## Molecular visualizations
+
+[Open the visualizations folder](visualizations/) for seven PFAS structures and an illustrative DHP-linkage fragment–PFOA contact, with portable VMD loading states and provenance. Download and unzip the repository, then use VMD **File → Load Visualization State** to open the desired `.vmd` file.
+
+![Illustrative capped DHP fragment–neutral PFOA contact](visualizations/dhp-pfoa-contact/contact_preview.png)
+
+This contact is a deliberately positioned geometry illustration, not a full COF crystal, validated binding pose, or simulation result.
