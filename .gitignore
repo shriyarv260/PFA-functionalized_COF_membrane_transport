@@ -1,0 +1,12 @@
+__pycache__/
+*.egg-info/
+.venv/
+build/
+dist/
+*.xtc
+*.trr
+*.tpr
+*.cpt
+runs/
+.DS_Store
+*.npz

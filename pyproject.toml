@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pfas-cof-transport"
+version = "0.1.0"
+description = "Reproducible data and transport analysis for PFAS in COF membranes"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24,<3"]
+
+[project.optional-dependencies]
+trajectory = ["MDAnalysis>=2.7,<3"]
+
+[project.scripts]
+pfas-cof = "pfas_cof.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
